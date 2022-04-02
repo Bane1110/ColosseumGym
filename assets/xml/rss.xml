@@ -1,14 +1,14 @@
 <rss version="2.0" encoding="UTF-8">
 <channel>
     <title>News</title>
-    <link>https://bane1110.github.io/ColosseumGym/index.html</link>
+    <link>https://bane1110.github.io/ColosseumGym/</link>
     <description>These are the most recent news</description>
         <item>
             <title>Coming soon to Asia!</title>
             <description>
             On of June 14th 2022 we are going to open over 20 gyms all over the Asia. Stay tuned for details!
             </description>
-            <link>https://bane1110.github.io/ColosseumGym/assets/html/contact.html</link>
+            <link>https://bane1110.github.io/ColosseumGym/assets/html/index.html</link>
         </item>
 </channel>
 </rss>
