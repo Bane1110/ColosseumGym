@@ -1,0 +1,13 @@
+<rss version="2.0" encoding="UTF-8">
+<channel>
+    <title>News</title>
+    <description>These are the most recent news</description>
+    <link></link>
+        <item>
+            <title>Coming soon to Asia!</title>
+            <description>
+            On of June 14th 2022 we are going to open over 20 gyms all over the Asia. Stay tuned for details!
+            </description>
+        </item>
+</channel>
+</rss>
