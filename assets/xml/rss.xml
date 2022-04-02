@@ -5,10 +5,10 @@
     <description>These are the most recent news</description>
         <item>
             <title>Coming soon to Asia!</title>
-            <link>https://bane1110.github.io/ColosseumGym/index.html</link>
             <description>
             On of June 14th 2022 we are going to open over 20 gyms all over the Asia. Stay tuned for details!
             </description>
+            <link>https://bane1110.github.io/ColosseumGym/assets/html/contact.html</link>
         </item>
 </channel>
 </rss>
